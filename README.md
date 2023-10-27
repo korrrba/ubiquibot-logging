@@ -31,3 +31,4 @@ yarn build:prod
 - qa-right-align 2
 - qa-right-align 3
 - qa-right-align 4
+- qa-right-align 5
