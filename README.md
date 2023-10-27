@@ -27,5 +27,5 @@ yarn start
 yarn build:prod
 ```
 
-- qa-right-align
+- qa-right-align 1
 - qa-right-align 2
