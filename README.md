@@ -26,3 +26,12 @@ yarn start
 ```
 yarn build:prod
 ```
+
+- qa-right-align 1
+- qa-right-align 2
+- qa-right-align 3
+- qa-right-align 4
+- qa-right-align 5
+- qa-right-align 6
+- qa-right-align 7
+- qa-right-align 9
