@@ -28,3 +28,4 @@ yarn build:prod
 ```
 
 - qa-right-align
+- qa-right-align 2
